@@ -2,15 +2,13 @@
 
 ## Description
 
-**Cavalier_C_Sharp** est un projet développé en C# qui propose une solution au problème du cavalier sur un échiquier. L'objectif est de simuler les mouvements possibles du cavalier en suivant l'algorithme choisi, en mettant en surbrillance les cases valides pour aider l’utilisateur.
+**Cavalier_C_Sharp** est un projet développé en C# qui propose une solution au problème du cavalier sur un échiquier. L'objectif est de simuler les mouvements possibles du cavalier en suivant l'algorithme de - Algorithme de Warnsdorff, en mettant en surbrillance les cases valides pour aider l’utilisateur.
 
 ## Fonctionnalités
 
 - Interface graphique interactive pour afficher l’échiquier et les déplacements.
-- Options pour choisir l’algorithme de déplacement du cavalier :
-  - Algorithme d’Euler
-  - Algorithme de Warnsdorff
-- Visualisation des mouvements valides du cavalier.
+- Possibilité de jouer ou de simuler les mouvements du cavalier.
+- Visualisation des mouvements valides du cavalier (mode jeu).
 - Option pour annuler les derniers mouvements (jusqu'à 5).
 
 ## Installation
